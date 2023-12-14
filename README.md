@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=muradalaliy)
+
+![](https://komarev.com/ghpvc/?username=muradalaliy&color=green)
+
+
 <!--
 **muradalaliy/muradalaliy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
