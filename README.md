@@ -1,9 +1,13 @@
 ### Hi there 👋
-
-![](https://komarev.com/ghpvc/?username=muradalaliy)
+### This is Me Murad-Alaliy 
 
 ![](https://komarev.com/ghpvc/?username=muradalaliy&color=green)
 
+### Im Software Engineer And Developer
+
+[![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
+
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
 <!--
 **muradalaliy/muradalaliy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
