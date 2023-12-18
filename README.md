@@ -35,6 +35,9 @@ I am enthusiastic about technical challenges and always strive to employ my know
   
 </p>
 
+
+
+
 [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
